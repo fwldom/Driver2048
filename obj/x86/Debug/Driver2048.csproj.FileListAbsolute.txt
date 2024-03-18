@@ -1,0 +1,12 @@
+C:\Users\Fwldom\Documents\Visual Studio 2015\Projects\Driver2048\Driver2048\bin\Debug\Driver2048.exe
+C:\Users\Fwldom\Documents\Visual Studio 2015\Projects\Driver2048\Driver2048\bin\Debug\Driver2048.pdb
+C:\Users\Fwldom\Documents\Visual Studio 2015\Projects\Driver2048\Driver2048\obj\x86\Debug\Driver2048.csprojResolveAssemblyReference.cache
+C:\Users\Fwldom\Documents\Visual Studio 2015\Projects\Driver2048\Driver2048\obj\x86\Debug\Driver2048.Driver2048.resources
+C:\Users\Fwldom\Documents\Visual Studio 2015\Projects\Driver2048\Driver2048\obj\x86\Debug\Driver2048.Properties.Resources.resources
+C:\Users\Fwldom\Documents\Visual Studio 2015\Projects\Driver2048\Driver2048\obj\x86\Debug\Driver2048.csproj.GenerateResource.Cache
+C:\Users\Fwldom\Documents\Visual Studio 2015\Projects\Driver2048\Driver2048\obj\x86\Debug\Driver2048.exe
+C:\Users\Fwldom\Documents\Visual Studio 2015\Projects\Driver2048\Driver2048\obj\x86\Debug\Driver2048.pdb
+C:\Users\Fwldom\Documents\Visual Studio 2015\Projects\Driver2048\Driver2048\bin\Debug\Driver2048.exe.manifest
+C:\Users\Fwldom\Documents\Visual Studio 2015\Projects\Driver2048\Driver2048\bin\Debug\Driver2048.application
+C:\Users\Fwldom\Documents\Visual Studio 2015\Projects\Driver2048\Driver2048\obj\x86\Debug\Driver2048.exe.manifest
+C:\Users\Fwldom\Documents\Visual Studio 2015\Projects\Driver2048\Driver2048\obj\x86\Debug\Driver2048.application
