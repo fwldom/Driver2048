@@ -46,6 +46,7 @@
             this.Score = new System.Windows.Forms.Label();
             this.EnemyBox = new System.Windows.Forms.PictureBox();
             this.Player = new System.Windows.Forms.PictureBox();
+            this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.MenuMain.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.EnemyBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Player)).BeginInit();
@@ -133,7 +134,8 @@
             this.restartToolStripMenuItem,
             this.startToolStripMenuItem,
             this.exitToolStripMenuItem,
-            this.stopToolStripMenuItem});
+            this.stopToolStripMenuItem,
+            this.aboutToolStripMenuItem});
             this.gameToolStripMenuItem.Name = "gameToolStripMenuItem";
             this.gameToolStripMenuItem.Size = new System.Drawing.Size(50, 20);
             this.gameToolStripMenuItem.Text = "Game";
@@ -141,28 +143,28 @@
             // restartToolStripMenuItem
             // 
             this.restartToolStripMenuItem.Name = "restartToolStripMenuItem";
-            this.restartToolStripMenuItem.Size = new System.Drawing.Size(110, 22);
+            this.restartToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.restartToolStripMenuItem.Text = "Restart";
             this.restartToolStripMenuItem.Click += new System.EventHandler(this.restartToolStripMenuItem_Click);
             // 
             // startToolStripMenuItem
             // 
             this.startToolStripMenuItem.Name = "startToolStripMenuItem";
-            this.startToolStripMenuItem.Size = new System.Drawing.Size(110, 22);
+            this.startToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.startToolStripMenuItem.Text = "Start";
             this.startToolStripMenuItem.Click += new System.EventHandler(this.startToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(110, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
             // stopToolStripMenuItem
             // 
             this.stopToolStripMenuItem.Name = "stopToolStripMenuItem";
-            this.stopToolStripMenuItem.Size = new System.Drawing.Size(110, 22);
+            this.stopToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.stopToolStripMenuItem.Text = "Stop";
             this.stopToolStripMenuItem.Click += new System.EventHandler(this.stopToolStripMenuItem_Click);
             // 
@@ -202,6 +204,13 @@
             this.Player.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.Player.TabIndex = 13;
             this.Player.TabStop = false;
+            // 
+            // aboutToolStripMenuItem
+            // 
+            this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.aboutToolStripMenuItem.Text = "About";
+            this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
             // Driver2048
             // 
@@ -256,6 +265,7 @@
         private System.Windows.Forms.Label Score;
         private System.Windows.Forms.PictureBox Player;
         private System.Windows.Forms.GroupBox Khat4;
+        private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
     }
 }
 

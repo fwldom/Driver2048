@@ -214,5 +214,10 @@ namespace Driver2048
         {
 
         }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("C#.NET \n Fwldom \n System Down Team \n github.com/fwldom/Driver2048/ \n Open Source");
+        }
     }
 }
